@@ -1,0 +1,4 @@
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.password=123456
+jdbc.url=jdbc:mysql://127.0.0.1:3306/allcount?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true
+jdbc.username=root
